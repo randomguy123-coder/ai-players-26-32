@@ -1,0 +1,24 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "aiplayer:ai_player",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/ai_player"
+      },
+      "geometry": {
+        "default": "geometry.ai_player"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#4C8DCE",
+        "overlay_color": "#26394F"
+      }
+    }
+  }
+}

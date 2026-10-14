@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AI Players 26.32 BP",
+    "description": "Behavior pack for AI Players",
+    "uuid": "bdb2eb80-ce7b-4998-82b1-c9595b498af5",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "27d55372-d1a6-4cda-b876-394b9b6f9723",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1eb01db7-0a45-4aff-a281-0f5c4ca23077",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}
